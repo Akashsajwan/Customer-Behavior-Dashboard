@@ -211,9 +211,17 @@ The presentation summarizes:
 
 ### Customer Behavior Dashboard
 
-![Customer Behavior Dashboard](PASTE_YOUR_DASHBOARD_SCREENSHOT_LINK_HERE)
+![Customer Behavior Dashboard]((https://github.com/Akashsajwan/Customer_Shopping_Behavior_Dashboard/blob/main/Customer_behavior_Dashboard.png))
 
-> Replace `PASTE_YOUR_DASHBOARD_SCREENSHOT_LINK_HERE` with your GitHub screenshot link.
+---
+
+---
+
+## 🖼️ Findings and recommendations Preview
+
+### Dashboard Insights
+
+![Dashboard Insights](https://github.com/Akashsajwan/Customer_Shopping_Behavior_Dashboard/blob/main/Customer_behavior_Insights.png)
 
 ---
 
