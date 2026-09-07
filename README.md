@@ -211,7 +211,7 @@ The presentation summarizes:
 
 ### Customer Behavior Dashboard
 
-![Customer Behavior Dashboard]((https://github.com/Akashsajwan/Customer_Shopping_Behavior_Dashboard/blob/main/Customer_behavior_Dashboard.png))
+![Customer Behavior Dashboard](https://github.com/Akashsajwan/Customer_Shopping_Behavior_Dashboard/blob/main/Customer_behavior_Dashboard.png)
 
 ---
 
