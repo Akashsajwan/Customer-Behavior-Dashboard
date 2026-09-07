@@ -42,7 +42,7 @@ The dataset was prepared and analyzed before being used for dashboard developmen
 | **NumPy** | Numerical analysis |
 | **Matplotlib / Seaborn** | Data visualization during EDA |
 | **SQL** | Data analysis and querying |
-| **PostgreSQL / MySQL / SQL Server** | Database-based analysis |
+| **PostgreSQL Server** | Database-based analysis |
 | **Power BI** | Interactive dashboard development |
 | **DAX** | Measures and analytical calculations |
 | **Power Query** | Data transformation |
